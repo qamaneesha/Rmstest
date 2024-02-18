@@ -535,7 +535,7 @@ public class Login_page {
 		
 		
 		
-		/*WebElement incomeReportButton = driver.findElement(By.xpath("//body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[4]/li[1]/ul[1]/li[3]/span[1]/a[1]"));
+		WebElement incomeReportButton = driver.findElement(By.xpath("//body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[4]/li[1]/ul[1]/li[3]/span[1]/a[1]"));
 		incomeReportButton.click();
 		
 		
@@ -564,7 +564,7 @@ public class Login_page {
 		
 		WebElement expenseReportButton = driver.findElement(By.xpath("//body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[4]/li[1]/ul[1]/li[4]/span[1]/a[1]"));
 		expenseReportButton.click();
-       */ 
+       
 	}
 	
 
